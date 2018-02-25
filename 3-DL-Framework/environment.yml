@@ -1,0 +1,54 @@
+name: skripsi
+channels:
+  - defaults
+dependencies:
+  - ca-certificates=2017.08.26=h1d4fec5_0
+  - certifi=2018.1.18=py27_0
+  - intel-openmp=2018.0.0=hc7b2577_8
+  - libedit=3.1=heed3624_0
+  - libffi=3.2.1=hd88cf55_4
+  - libgcc-ng=7.2.0=h7cc24e2_2
+  - libstdcxx-ng=7.2.0=h7a57d05_2
+  - mkl=2018.0.1=h19d6760_4
+  - mkl-service=1.1.2=py27hb2d42c5_4
+  - ncurses=6.0=h9df7e31_2
+  - openssl=1.0.2n=hb7f436b_0
+  - pip=9.0.1=py27ha730c48_4
+  - python=2.7.14=h1571d57_29
+  - readline=7.0=ha6073c6_4
+  - setuptools=38.5.1=py27_0
+  - sqlite=3.22.0=h1bed415_0
+  - tk=8.6.7=hc745277_3
+  - wheel=0.30.0=py27h2bc6bb2_1
+  - zlib=1.2.11=ha838bed_2
+  - pip:
+    - absl-py==0.1.10
+    - backports.functools-lru-cache==1.5
+    - backports.weakref==1.0.post1
+    - bleach==1.5.0
+    - cycler==0.10.0
+    - enum34==1.1.6
+    - funcsigs==1.0.2
+    - futures==3.2.0
+    - h5py==2.7.1
+    - html5lib==0.9999999
+    - keras==2.1.4
+    - markdown==2.6.11
+    - matplotlib==2.1.2
+    - mock==2.0.0
+    - numpy==1.14.1
+    - pbr==3.1.1
+    - protobuf==3.5.1
+    - pyparsing==2.2.0
+    - python-dateutil==2.6.1
+    - pytz==2018.3
+    - pyyaml==3.12
+    - scipy==1.0.0
+    - six==1.11.0
+    - subprocess32==3.2.7
+    - tensorflow==1.5.0
+    - tensorflow-tensorboard==1.5.1
+    - theano==1.0.1
+    - werkzeug==0.14.1
+prefix: /home/fuadajip/anaconda2/envs/skripsi
+
